@@ -1,2 +1,2 @@
-# JHUcoursera
+# datasciencecoursera
 datasciencecoursera
