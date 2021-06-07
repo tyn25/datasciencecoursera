@@ -1,4 +1,4 @@
-http://roshangrewal.com/capstone-project-the-battle-of-neighborhoods-finding-a-better-place-in-scarborough-toronto/
+
 
 
 IBM Watson Studio - Project Report Link:https://eu-de.dataplatform.cloud.ibm.com/analytics/notebooks/v2/2d24c9b9-680c-4c0e-8f17-cbf30222c178/view?access_token=4c4d8e1962700287eb0f3bb80d82bf4c7cf84cfe7a57b937af67e945912bc5a0 
